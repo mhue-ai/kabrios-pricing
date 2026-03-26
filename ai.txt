@@ -1,4 +1,4 @@
-Kabrios pricing — transparent, published pricing from $0/mo Starter to Custom Private.
+Kabrios pricing — transparent, published pricing from $0/mo Starter to $199/mo Professional base (+$49/mo per additional framework) and Custom.
 
 Kabrios is an AI-powered compliance and security operations platform.
 It supports certification readiness across SOC 2, ISO 27001, NIST 800-53, NIST RMF, CMMC, FedRAMP, GovRamp, HIPAA, and PCI DSS.
